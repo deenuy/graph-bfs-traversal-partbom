@@ -1,0 +1,80 @@
+{
+  "1": {
+    "product_number": "8210G002-016",
+    "children": {
+      "1.1": { "product_number": "240350-001" },
+      "1.2": { "product_number": "238212-032" },
+      "1.3": { "product_number": "143490-001" },
+      "1.4": { "product_number": "WC[R]ASSLY" },
+      "1.5": { "product_number": "432941-001" },
+      "1.6": { "product_number": "238754-502" }
+    }
+  },
+  "1.6": {
+    "product_number": "238754-502",
+    "children": {
+      "1.6.1": { "product_number": "238450-001" },
+      "1.6.2": { "product_number": "073103-068-A2" },
+      "1.6.3": { "product_number": "000006-950-R" },
+      "1.6.4": { "product_number": "266458-001" },
+      "1.6.5": { "product_number": "143220-001" },
+      "1.6.6": { "product_number": "260689-001" },
+      "1.6.7": { "product_number": "236857-001" },
+      "1.6.8": { "product_number": "000006-583-R" }
+    }
+  },
+  "1.1": {
+    "product_number": "240350-001",
+    "children": {
+      "1.1.1": { "product_number": "212860" },
+      "1.1.2": { "product_number": "039619-033-70" },
+      "1.1.3": { "product_number": "095487-001" },
+      "1.1.4": { "product_number": "222999-001" },
+      "1.1.5": { "product_number": "226156-001" },
+      "1.1.6": { "product_number": "103032" },
+      "1.1.7": { "product_number": "102045-001" },
+      "1.1.8": { "product_number": "123620-573-RU" },
+      "1.1.9": { "product_number": "123620-573" },
+      "1.1.10": { "product_number": "039998-078" }
+    }
+  },
+  "1.1.10": {
+    "product_number": "039998-078",
+    "children": {
+      "1.1.10.1": { "product_number": "126299-001" },
+      "1.1.10.2": { "product_number": "073102-003-G1" }
+    }
+  },
+  "1.1.7": {
+    "product_number": "102045-001",
+    "children": {
+      "1.1.7.1": { "product_number": "WC[R]ASSLY" },
+      "1.1.7.2": { "product_number": "176332-001" },
+      "1.1.7.3": { "product_number": "176333-001" }
+    }
+  },
+  "1.1.5": {
+    "product_number": "226156-001",
+    "children": {
+      "1.1.5.1": { "product_number": "204242-003-A" },
+      "1.1.5.2": { "product_number": "091248-002" },
+      "1.1.5.3": { "product_number": "204244-001" },
+      "1.1.5.4": { "product_number": "089634-002" },
+      "1.1.5.5": { "product_number": "WC[R]ASSLY" }
+    }
+  },
+  "1.1.4": {
+    "product_number": "222999-001",
+    "children": { "1.1.4.1": { "product_number": "126058" } }
+  },
+  "1.1.3": {
+    "product_number": "095487-001",
+    "children": {
+      "1.1.3.1": { "product_number": "254706-001" },
+      "1.1.3.2": { "product_number": "WC[R]ASSLY" },
+      "1.1.3.3": { "product_number": "254708-001" },
+      "1.1.3.4": { "product_number": "258205-002" },
+      "1.1.3.5": { "product_number": "039619-001-50" }
+    }
+  }
+}
